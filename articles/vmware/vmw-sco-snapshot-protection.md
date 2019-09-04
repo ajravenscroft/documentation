@@ -63,7 +63,7 @@ VM snapshots may be attempted more than once to obtain successful status.
 
 Only the final state will count in our calculations.
 
-Any snapshots still in progress at 0900 are considered as failed.
+Any snapshots still in progress at 0800 are considered as failed.
 
 Partial snapshots and those with errors count as failed.
 
